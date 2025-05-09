@@ -5,6 +5,8 @@
 - Accurately track objects in red, green and blue
 
 ## Demo
+- **Pink Cross:** Center coordinate of the object
+- **Blue Dot:** Real-time aiming point
 https://github.com/user-attachments/assets/43926941-7071-4365-b146-bdda80280d26
 
 ## Installation
